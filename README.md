@@ -9,5 +9,6 @@ Application that steals the Telegram Desctop session and looks like congratulati
 # Warning
 You can't log in with received files while the session is active. User also can not use session while you are using it. Code will not send you the archive if there is no Internet connection on user's PC
 
-# P.S. 
+# Enhancements
 For decreasing the sent archive you can check the importance of every packed file and choose which of them you will send.
+Two VirusTotal`s security vendors detect file as malware or trojan. This porblem can be solved if the code doesn`t remove our zip file.
